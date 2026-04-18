@@ -12,6 +12,7 @@
 * 📧 Email: [tuongvy2429104@gmail.com](mailto:tuongvy2429104@gmail.com)
 * 💼 Linkedin: https://www.linkedin.com/in/ngoctuongvynguyen/
 * 📊 Tableau: https://public.tableau.com/app/profile/nguy.n.ng.c.vy/vizzes
+* ⓕ Facebook: https://www.facebook.com/qnout.yv/
 
 ---
 
