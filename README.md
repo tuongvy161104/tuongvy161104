@@ -1,5 +1,3 @@
-<h1 align="center">👋 Hi, I'm Tường Vy</h1>
-
 ## 🚀 About Me
 
 * 🎓 Final-year Data Science student at Da Nang University of Economics
